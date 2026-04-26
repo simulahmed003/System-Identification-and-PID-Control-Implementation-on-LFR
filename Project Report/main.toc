@@ -1,0 +1,26 @@
+~\hfill \textbf {Page}\par 
+\contentsline {part}{Title Page}{i}{section*.1}%
+\contentsline {part}{Abstract}{i}{section*.2}%
+\contentsline {part}{Contents}{ii}{section*.2}%
+\contentsline {part}{List of Figures}{iii}{section*.3}%
+\contentsline {chapter}{\numberline {I}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}General}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}The PID Controller}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}System Identification and PID Tuning}{3}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Specific Objectives}{4}{section.1.2}%
+\contentsline {chapter}{\numberline {II}LITERATURE REVIEW}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Line-Following Robots and Sensing}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Differential-Drive Modeling and PID Control}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}PID Tuning and System Identification}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Research Gap and Motivation}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {III}METHODOLOGY}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Hardware Architecture and System Overview}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sensor Calibration and Error Estimation}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Control Structure}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Experimental Data Collection}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Transfer Function Identification}{14}{section.3.5}%
+\contentsline {section}{\numberline {3.6}PID Tuning and Hardware Validation}{14}{section.3.6}%
+\contentsline {chapter}{\numberline {IV}RESULTS}{15}{chapter.4}%
+\contentsline {chapter}{\numberline {V}DISCUSSIONS}{19}{chapter.5}%
+\contentsline {chapter}{\numberline {VI}CONCLUSIONS, LIMITATIONS, AND FUTURE RESEARCH DIRECTIONS}{20}{chapter.6}%
+\contentsline {part}{REFERENCES}{21}{section*.18}%

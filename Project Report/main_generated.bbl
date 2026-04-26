@@ -1,0 +1,739 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{carlucho2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=8c70b9c388bed1fbda17d6eb99a72f2b}{%
+           family={Carlucho},
+           familyi={C\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2bdd6128ae458f495d6560092d228687}{%
+           family={De\bibnamedelima Paula},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=17b210097537ccecd6e3eaa45a24c9dd}{%
+           family={Acosta},
+           familyi={A\bibinitperiod},
+           given={G.\bibnamedelimi G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d65e96d9be0c0dd9c44e2490afa5fff8}
+      \strng{fullhash}{70c5d805e54172eae4d036c13bcaf35d}
+      \strng{fullhashraw}{70c5d805e54172eae4d036c13bcaf35d}
+      \strng{bibnamehash}{70c5d805e54172eae4d036c13bcaf35d}
+      \strng{authorbibnamehash}{70c5d805e54172eae4d036c13bcaf35d}
+      \strng{authornamehash}{d65e96d9be0c0dd9c44e2490afa5fff8}
+      \strng{authorfullhash}{70c5d805e54172eae4d036c13bcaf35d}
+      \strng{authorfullhashraw}{70c5d805e54172eae4d036c13bcaf35d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISA Transactions}
+      \field{title}{An adaptive deep reinforcement learning approach for {MIMO} {PID} control of mobile robots}
+      \field{volume}{102}
+      \field{year}{2020}
+      \field{pages}{280\bibrangedash 294}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.isatra.2020.02.017
+      \endverb
+    \endentry
+    \entry{balaji2015}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=caacffd06f6357e7dcd5c2c52ec55d10}{%
+           family={Balaji},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a22eb852b279977cbb23e86642bddd22}{%
+           family={Balaji},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3e9568c7411f32a133215f3787707c9a}{%
+           family={Chandrasekaran},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b5d885307afd87167ffcdb6e60e3532c}{%
+           family={Ahamed\bibnamedelima Khan},
+           familyi={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={M.\bibnamedelimi K.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=dab9cbe030228c8f93d0a25ba13b0fe9}{%
+           family={Elamvazuthi},
+           familyi={E\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec455010e973a806a7c80b8a4354e2ff}
+      \strng{fullhash}{f237e88f0b289e5116b857a1a178844b}
+      \strng{fullhashraw}{f237e88f0b289e5116b857a1a178844b}
+      \strng{bibnamehash}{f237e88f0b289e5116b857a1a178844b}
+      \strng{authorbibnamehash}{f237e88f0b289e5116b857a1a178844b}
+      \strng{authornamehash}{ec455010e973a806a7c80b8a4354e2ff}
+      \strng{authorfullhash}{f237e88f0b289e5116b857a1a178844b}
+      \strng{authorfullhashraw}{f237e88f0b289e5116b857a1a178844b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{Optimization of {PID} Control for High Speed Line Tracking Robots}
+      \field{volume}{76}
+      \field{year}{2015}
+      \field{pages}{147\bibrangedash 154}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.procs.2015.12.329
+      \endverb
+    \endentry
+    \entry{brigido2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=c0e99511c007abea19cdd5e89190c127}{%
+           family={Brigido},
+           familyi={B\bibinitperiod},
+           given={W.\bibnamedelimi J.\bibnamedelimi H.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e07413e028ac883baaebde8bb63f101c}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={J.\bibnamedelimi M.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{fullhash}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{fullhashraw}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{bibnamehash}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{authorbibnamehash}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{authornamehash}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{authorfullhash}{28a130c25f54c9361e8c8b9c5e032e98}
+      \strng{authorfullhashraw}{28a130c25f54c9361e8c8b9c5e032e98}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PeerJ Computer Science}
+      \field{title}{The line follower robot: a meta-analytic approach}
+      \field{volume}{11}
+      \field{year}{2025}
+      \field{pages}{e2744}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7717/peerj-cs.2744
+      \endverb
+    \endentry
+    \entry{siwek2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=7e7089be5f7cdab197a468b8f58888a5}{%
+           family={Siwek},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=dcbe906cf1f0658487baf0ac506cd739}{%
+           family={Panasiuk},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=44fc94fd8d347d66b4b1d27a9ae399b9}{%
+           family={Kaczmarek},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=24107df17c350c55d979e7e668205b74}{%
+           family={Borys},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9b4c281d3fd781ebb96fc9d97f967e4a}{%
+           family={Prusaczyk},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{64a0b741fc64456dfa1c128f1d180f4e}
+      \strng{fullhash}{8633b1260e8f03f6ddb2c3919b06b949}
+      \strng{fullhashraw}{8633b1260e8f03f6ddb2c3919b06b949}
+      \strng{bibnamehash}{8633b1260e8f03f6ddb2c3919b06b949}
+      \strng{authorbibnamehash}{8633b1260e8f03f6ddb2c3919b06b949}
+      \strng{authornamehash}{64a0b741fc64456dfa1c128f1d180f4e}
+      \strng{authorfullhash}{8633b1260e8f03f6ddb2c3919b06b949}
+      \strng{authorfullhashraw}{8633b1260e8f03f6ddb2c3919b06b949}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials}
+      \field{number}{2}
+      \field{title}{Identification of differential drive robot dynamic model parameters}
+      \field{volume}{16}
+      \field{year}{2023}
+      \field{pages}{683}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ma16020683
+      \endverb
+    \endentry
+    \entry{baharuddin2006}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=c045f4832f633ae1bcec714e4db72065}{%
+           family={Baharuddin},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi Z.},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=4cbc8db8f60bba455bf879e92fad58ef}{%
+           family={Abidin},
+           familyi={A\bibinitperiod},
+           given={I.\bibnamedelimi Z.},
+           giveni={I\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=c30d7fd3b4bf16a226947e4ba3157b42}{%
+           family={Mohideen},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=d1d729912c6b6661cd8fab63a7f1c81a}{%
+           family={Siah},
+           familyi={S\bibinitperiod},
+           given={Y.\bibnamedelimi K.},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=969e35473e55032d8468abec113e2d59}{%
+           family={Chuan},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi T.\bibnamedelimi T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{109ccffbe754a7c25f326fefe67fc828}
+      \strng{fullhash}{935632104eba36b1fd0a1fb1ee203345}
+      \strng{fullhashraw}{935632104eba36b1fd0a1fb1ee203345}
+      \strng{bibnamehash}{935632104eba36b1fd0a1fb1ee203345}
+      \strng{authorbibnamehash}{935632104eba36b1fd0a1fb1ee203345}
+      \strng{authornamehash}{109ccffbe754a7c25f326fefe67fc828}
+      \strng{authorfullhash}{935632104eba36b1fd0a1fb1ee203345}
+      \strng{authorfullhashraw}{935632104eba36b1fd0a1fb1ee203345}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. 4th Student Conference on Research and Development (SCOReD)}
+      \field{title}{Analysis of line sensor configuration for the advanced line follower robot}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1109/SCORED.2006.4339328
+      \endverb
+    \endentry
+    \entry{ziegler1942}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3eb7b00b51845616ebc58740176275b5}{%
+           family={Ziegler},
+           familyi={Z\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=a01bd6b3117ae859386ed57943be6160}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={N.\bibnamedelimi B.},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0863fb74555560f1272ce9205afca419}
+      \strng{fullhash}{0863fb74555560f1272ce9205afca419}
+      \strng{fullhashraw}{0863fb74555560f1272ce9205afca419}
+      \strng{bibnamehash}{0863fb74555560f1272ce9205afca419}
+      \strng{authorbibnamehash}{0863fb74555560f1272ce9205afca419}
+      \strng{authornamehash}{0863fb74555560f1272ce9205afca419}
+      \strng{authorfullhash}{0863fb74555560f1272ce9205afca419}
+      \strng{authorfullhashraw}{0863fb74555560f1272ce9205afca419}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the ASME}
+      \field{title}{Optimum settings for automatic controllers}
+      \field{volume}{64}
+      \field{year}{1942}
+      \field{pages}{759\bibrangedash 768}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1115/1.2899060
+      \endverb
+    \endentry
+    \entry{borase2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=3e170bd9550b41c1c38d866cd2148019}{%
+           family={Borase},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=a5fe94e9cb9a2aceebecfa155901b2ef}{%
+           family={Maghade},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c14c1b4ea96a29c5fe5d6e7d97f8e3cd}{%
+           family={Sondkar},
+           familyi={S\bibinitperiod},
+           given={S.\bibnamedelimi Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=2697a1edf5eef3503be39203178e3a23}{%
+           family={Pawar},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8501c93c03406cd274f1fae143dfcdc}
+      \strng{fullhash}{bce1d999300655a0c458e697ee17eaf4}
+      \strng{fullhashraw}{bce1d999300655a0c458e697ee17eaf4}
+      \strng{bibnamehash}{bce1d999300655a0c458e697ee17eaf4}
+      \strng{authorbibnamehash}{bce1d999300655a0c458e697ee17eaf4}
+      \strng{authornamehash}{f8501c93c03406cd274f1fae143dfcdc}
+      \strng{authorfullhash}{bce1d999300655a0c458e697ee17eaf4}
+      \strng{authorfullhashraw}{bce1d999300655a0c458e697ee17eaf4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Dynamics and Control}
+      \field{title}{A review of {PID} control, tuning methods and applications}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{818\bibrangedash 827}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s40435-020-00665-4
+      \endverb
+    \endentry
+    \entry{astrom2006}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d842a025a559e5c2edf98f59c10d29d}{%
+           family={{Å}ström},
+           familyi={Å\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=289f7492e7cd0d1898e2b55f807825f2}{%
+           family={Hägglund},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ISA}%
+      }
+      \strng{namehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{fullhash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{fullhashraw}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{bibnamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorbibnamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authornamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorfullhash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorfullhashraw}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1556179426}
+      \field{title}{Advanced {PID} Control}
+      \field{year}{2006}
+    \endentry
+    \entry{ljung1999}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c86b1220e71554d51be5cd3689adb6e}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall}%
+      }
+      \strng{namehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{fullhash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{fullhashraw}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{bibnamehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authorbibnamehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authornamehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authorfullhash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authorfullhashraw}{8c86b1220e71554d51be5cd3689adb6e}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{isbn}{978-0136566953}
+      \field{title}{System Identification: Theory for the User}
+      \field{year}{1999}
+    \endentry
+    \entry{ljung2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=8c86b1220e71554d51be5cd3689adb6e}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{fullhash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{fullhashraw}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{bibnamehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authorbibnamehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authornamehash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authorfullhash}{8c86b1220e71554d51be5cd3689adb6e}
+      \strng{authorfullhashraw}{8c86b1220e71554d51be5cd3689adb6e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Reviews in Control}
+      \field{number}{1}
+      \field{title}{Perspectives on system identification}
+      \field{volume}{34}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.arcontrol.2009.12.001
+      \endverb
+    \endentry
+    \entry{schoukens2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=0dbb79ef915184927d01c0bcfa772d30}{%
+           family={Schoukens},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8c86b1220e71554d51be5cd3689adb6e}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{fullhash}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{fullhashraw}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{bibnamehash}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{authorbibnamehash}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{authornamehash}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{authorfullhash}{03a10a58dea1d68babc27ff566b7777a}
+      \strng{authorfullhashraw}{03a10a58dea1d68babc27ff566b7777a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Control Systems Magazine}
+      \field{number}{6}
+      \field{title}{Nonlinear system identification: A user-oriented road map}
+      \field{volume}{39}
+      \field{year}{2019}
+      \field{pages}{28\bibrangedash 99}
+      \range{pages}{72}
+      \verb{doi}
+      \verb 10.1109/MCS.2019.2938121
+      \endverb
+    \endentry
+    \entry{pillonetto2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=8973b34d73d80c04199ad39ca52d4d9c}{%
+           family={Pillonetto},
+           familyi={P\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2151f5bc292fa22637a62b8704826592}{%
+           family={Aravkin},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6102fd9754d0421aa5d0a7d1c32a8bd2}{%
+           family={Gedon},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8c86b1220e71554d51be5cd3689adb6e}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=45e6784bb830d42cf443f1101d0b3a35}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=c74b7c1d815dc861532f386ead4180e5}{%
+           family={Schön},
+           familyi={S\bibinitperiod},
+           given={T.\bibnamedelimi B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{29b634877d3653e2b6b9e28fdec6e636}
+      \strng{fullhash}{b048422449eea1bd244090b7a748cf2e}
+      \strng{fullhashraw}{b048422449eea1bd244090b7a748cf2e}
+      \strng{bibnamehash}{b048422449eea1bd244090b7a748cf2e}
+      \strng{authorbibnamehash}{b048422449eea1bd244090b7a748cf2e}
+      \strng{authornamehash}{29b634877d3653e2b6b9e28fdec6e636}
+      \strng{authorfullhash}{b048422449eea1bd244090b7a748cf2e}
+      \strng{authorfullhashraw}{b048422449eea1bd244090b7a748cf2e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{title}{Deep networks for system identification: a survey}
+      \field{volume}{171}
+      \field{year}{2025}
+      \field{pages}{111907}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.automatica.2024.111907
+      \endverb
+    \endentry
+    \entry{quaranta2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=1538dfa674404f8568016194a1fd040a}{%
+           family={Quaranta},
+           familyi={Q\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=49b8c2e7fdfe5218aa9c0ecb5a557b4e}{%
+           family={Lacarbonara},
+           familyi={L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=637e7bd39e124d112b084168077b28ed}{%
+           family={Masri},
+           familyi={M\bibinitperiod},
+           given={S.\bibnamedelimi F.},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5fd20c44ebefcc99b59a25672d3d6b1}
+      \strng{fullhash}{4121366d7b944fcd74053e1d511d14db}
+      \strng{fullhashraw}{4121366d7b944fcd74053e1d511d14db}
+      \strng{bibnamehash}{4121366d7b944fcd74053e1d511d14db}
+      \strng{authorbibnamehash}{4121366d7b944fcd74053e1d511d14db}
+      \strng{authornamehash}{b5fd20c44ebefcc99b59a25672d3d6b1}
+      \strng{authorfullhash}{4121366d7b944fcd74053e1d511d14db}
+      \strng{authorfullhashraw}{4121366d7b944fcd74053e1d511d14db}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nonlinear Dynamics}
+      \field{number}{2}
+      \field{title}{A review on computational intelligence for identification of nonlinear dynamical systems}
+      \field{volume}{99}
+      \field{year}{2020}
+      \field{pages}{1709\bibrangedash 1761}
+      \range{pages}{53}
+      \verb{doi}
+      \verb 10.1007/s11071-019-05430-7
+      \endverb
+    \endentry
+    \entry{ahmed2025}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=412516eb32642e250369cbd75713ecd4}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{29be84021423a5c8be024913051fd9d0}
+      \strng{fullhash}{29be84021423a5c8be024913051fd9d0}
+      \strng{fullhashraw}{29be84021423a5c8be024913051fd9d0}
+      \strng{bibnamehash}{29be84021423a5c8be024913051fd9d0}
+      \strng{authorbibnamehash}{29be84021423a5c8be024913051fd9d0}
+      \strng{authornamehash}{29be84021423a5c8be024913051fd9d0}
+      \strng{authorfullhash}{29be84021423a5c8be024913051fd9d0}
+      \strng{authorfullhashraw}{29be84021423a5c8be024913051fd9d0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial \& Engineering Chemistry Research}
+      \field{number}{8}
+      \field{title}{Comparative study of machine learning and system identification for process systems engineering dynamics}
+      \field{volume}{64}
+      \field{year}{2025}
+      \field{pages}{4450\bibrangedash 4478}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1021/acs.iecr.4c03264
+      \endverb
+    \endentry
+    \entry{guffanti2025}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9fd916ac833941412ea73bb714787645}{%
+           family={Guffanti},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=58406ce297703f1a38da2d262fdb98c1}{%
+           family={Pavon},
+           familyi={P\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{fullhash}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{fullhashraw}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{bibnamehash}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{authorbibnamehash}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{authornamehash}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{authorfullhash}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \strng{authorfullhashraw}{e22e4e7069e6b1d3827f86c09a31fcfe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{11}
+      \field{title}{Multivariate system identification of differential drive robot: comparison between state-space and {LSTM}-based models}
+      \field{volume}{25}
+      \field{year}{2025}
+      \field{pages}{3553}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s25113553
+      \endverb
+    \endentry
+    \entry{astrom1984}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d842a025a559e5c2edf98f59c10d29d}{%
+           family={{Å}ström},
+           familyi={Å\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=289f7492e7cd0d1898e2b55f807825f2}{%
+           family={Hägglund},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{fullhash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{fullhashraw}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{bibnamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorbibnamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authornamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorfullhash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorfullhashraw}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automatica}
+      \field{number}{5}
+      \field{title}{Automatic tuning of simple regulators with specifications on phase and amplitude margins}
+      \field{volume}{20}
+      \field{year}{1984}
+      \field{pages}{645\bibrangedash 651}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/0005-1098(84)90014-1
+      \endverb
+    \endentry
+    \entry{hang2002}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f9a379ab3e6dd9b5d6ebbde88621a737}{%
+           family={Hang},
+           familyi={H\bibinitperiod},
+           given={C.\bibnamedelimi C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=4d842a025a559e5c2edf98f59c10d29d}{%
+           family={{Å}ström},
+           familyi={Å\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=408370f7d907e2ed23c7e5f88b9de783}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Q.\bibnamedelimi G.},
+           giveni={Q\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b93c17621d17c6745ed7f3283600dff3}
+      \strng{fullhash}{1330beeaae2039b4d408724691ebdbed}
+      \strng{fullhashraw}{1330beeaae2039b4d408724691ebdbed}
+      \strng{bibnamehash}{1330beeaae2039b4d408724691ebdbed}
+      \strng{authorbibnamehash}{1330beeaae2039b4d408724691ebdbed}
+      \strng{authornamehash}{b93c17621d17c6745ed7f3283600dff3}
+      \strng{authorfullhash}{1330beeaae2039b4d408724691ebdbed}
+      \strng{authorfullhashraw}{1330beeaae2039b4d408724691ebdbed}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Process Control}
+      \field{number}{1}
+      \field{title}{Relay feedback auto-tuning of process controllers --- a tutorial review}
+      \field{volume}{12}
+      \field{year}{2002}
+      \field{pages}{143\bibrangedash 162}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1016/S0959-1524(01)00025-7
+      \endverb
+    \endentry
+    \entry{astrom2004}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4d842a025a559e5c2edf98f59c10d29d}{%
+           family={{Å}ström},
+           familyi={Å\bibinitperiod},
+           given={K.\bibnamedelimi J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=289f7492e7cd0d1898e2b55f807825f2}{%
+           family={Hägglund},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{fullhash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{fullhashraw}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{bibnamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorbibnamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authornamehash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorfullhash}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \strng{authorfullhashraw}{4b79e1b4cc0ec312378f2157128bd3d7}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Process Control}
+      \field{title}{Revisiting the Ziegler-Nichols step response method for {PID} control}
+      \field{volume}{14}
+      \field{year}{2004}
+      \field{pages}{635\bibrangedash 650}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jprocont.2004.01.002
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,21 @@
+\textbf {Figure No}\hfill \textbf {Description}\hfill \textbf {Page}\par 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Internal parallel structure of the PID controller.}}{2}{figure.caption.4}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Canonical closed-loop PID control system for DC motor speed regulation.}}{2}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Data-driven system identification workflow.}}{3}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Simulation-based PID tuning workflow.}}{4}{figure.caption.7}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Complete hardware block diagram showing the power supply, Arduino Nano, multiplexer-assisted sensor interface, L298N motor driver, DC motors, and Bluetooth telemetry link.}}{8}{figure.caption.8}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Top-view layout of the 14-element infrared sensor array with position labels from \(-7\) (far left) to \(+7\) (far right), excluding the physical centre position.}}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Photograph of the assembled differential-drive line-following robot used in the experimental study.}}{9}{figure.caption.10}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Calibration results of the 14-element infrared sensor array, showing the average white reading, average black reading, and threshold for each sensor position. The annotated \(D_i\) values indicate the contrast between the two surfaces.}}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Line position relative to the sensor array for centred and deviated tracking conditions.}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Simplified closed-loop control architecture of the differential-drive line-following robot.}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Detailed control-oriented representation showing the base command, steering correction, wheel-command generation, actuation limits, and feedback error signal.}}{13}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Collected experimental data used for system identification, showing the left motor command, right motor command, and measured tracking error versus time.}}{15}{figure.caption.15}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Comparison between measured tracking error and the output predicted by the identified transfer-function model for the same input sequence.}}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Experimental validation data obtained from the robot using the PID gains tuned from the identified transfer-function model. The steering input \((L-R)/2\) and the measured tracking error are plotted against time.}}{18}{figure.caption.17}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

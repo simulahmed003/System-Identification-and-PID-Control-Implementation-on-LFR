@@ -1,0 +1,94 @@
+% ====================== package-settings.tex (CLEANED) ======================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{times} 
+\usepackage{amsfonts,amsmath,amsthm,amssymb}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{threeparttable}
+\usepackage{subcaption}
+\usepackage{algorithmic}
+\usepackage{textcomp}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\usepackage{appendix}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{calc}
+\usepackage{setspace}
+\usepackage{tocloft}
+\usepackage[explicit]{titlesec}
+\usepackage{parskip}
+\setlength{\emergencystretch}{2em}
+
+% ====================== IEEE BIBLIOGRAPHY (biblatex) ======================
+\usepackage[
+  backend=biber,
+  style=ieee,
+  sorting=none,
+  giveninits=true
+]{biblatex}
+\addbibresource{references.bib}
+
+% ====================== HYPERREF (must be last) ======================
+\usepackage[hidelinks]{hyperref}
+\usepackage{bookmark}
+\hypersetup{colorlinks=true, linkcolor=black, citecolor=black, urlcolor=black}
+
+% ====================== KUET CHAPTER/SECTION STYLE ======================
+\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\theequation}{\arabic{chapter}.\arabic{equation}}
+\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+\titleformat{\chapter}[display]{\normalfont\large\bfseries\filcenter}{\MakeUppercase\chaptertitlename\ \thechapter}{40pt}{{#1}}
+\titlespacing*{\chapter}{0pt}{-30pt}{40pt}
+\titleformat{\section}{\normalfont\large\bfseries}{\thesection}{0.65em}{#1}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{1ex plus .2ex}
+\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{0.65em}{#1}
+\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{0.8ex plus .2ex}
+
+% ====================== LINE SPACING ======================
+\usepackage{setspace}
+\setstretch{1.5}
+
+% ====================== TOC / LOF / LOT ======================
+\renewcommand{\cfttoctitlefont}{\hfill\large\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}
+\addtocontents{toc}{~\hfill\textbf{Page}\par}
+\setlength{\cftbeforepartskip}{2pt}
+\setlength{\cftbeforechapskip}{8pt}
+\setlength{\cftbeforesecskip}{1pt}
+\setlength{\cftbeforesubsecskip}{0pt}
+\setlength{\cftpartindent}{2.8em}
+\setlength{\cftchapindent}{0pt}
+\setlength{\cftsecindent}{8.5em}
+\setlength{\cftsubsecindent}{11.3em}
+\setlength{\cftpartnumwidth}{0pt}
+\setlength{\cftchapnumwidth}{8.5em}
+\setlength{\cftsecnumwidth}{3em}
+\setlength{\cftsubsecnumwidth}{4em}
+\renewcommand{\cftpartfont}{\normalfont}
+\renewcommand{\cftpartpagefont}{\normalfont}
+\renewcommand{\cftchapfont}{\normalfont}
+\renewcommand{\cftchappagefont}{\normalfont}
+\renewcommand{\cftsecfont}{\normalfont}
+\renewcommand{\cftsecpagefont}{\normalfont}
+\renewcommand{\cftsubsecfont}{\normalfont}
+\renewcommand{\cftsubsecpagefont}{\normalfont}
+\renewcommand{\cftchappresnum}{\bfseries CHAPTER\ }
+\renewcommand{\cftchapaftersnum}{\normalfont\quad}
+\renewcommand{\cftchapleader}{\hfill}
+\renewcommand{\cftpartleader}{\hfill}
+\renewcommand{\cftsecleader}{\hfill}
+\renewcommand{\cftsubsecleader}{\hfill}
+\renewcommand{\cftlottitlefont}{\hfill\large\bfseries\MakeUppercase}
+\renewcommand{\cftafterlottitle}{\hfill}
+\renewcommand{\cftloftitlefont}{\hfill\large\bfseries\MakeUppercase}
+\renewcommand{\cftafterloftitle}{\hfill}
+\renewcommand{\cftsecdotsep}{\cftnodots}
+\renewcommand{\cftsubsecdotsep}{\cftnodots}
+\renewcommand{\cftfigdotsep}{\cftnodots}
+\renewcommand{\cfttabdotsep}{\cftnodots}
