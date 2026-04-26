@@ -15,7 +15,7 @@ This project presents a **systematic methodology** for system identification and
 ### Key Contribution
 We demonstrate that real experimental telemetry data from a low-cost robot can be used to identify a compact linear plant model, which is then suitable for effective PID tuning in MATLAB/Simulink before hardware deployment.
 
-**Project Type:** B.Sc. Engineering Thesis  
+**Project Type:** B.Sc. Engineering Project   
 **Department:** Energy Science and Engineering, KUET  
 **Author:** Simul Ahmed (Roll No. 2113006)  
 **Supervisor:** Mostafizur Rahaman  
